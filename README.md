@@ -11,11 +11,10 @@ A simple Swift command-line tool that prints the installed versions of **Xcode**
 
 ## Fast Installation
 
-The following first builds the project, then copies the product to /usr/local/bin/swift-report
+Use [homebrew](https://brew.sh)
 
 ```
-cd swift-report
-sudo make install
+brew install nashysolutions/tap/swift-report
 ```
 
 ## Manual Installation
